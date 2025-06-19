@@ -1,1 +1,1 @@
-# final-project
+# bu projede tercihlerimizle ilgili bize video oyunu öneren bir disord botu tasarlayacağım.Sadece bu da değil bize minecraft hakkında bilgi veren bir bot örneğin elmas fotoğrafı gönderdiğimizde bize hangi kordinatlarda çıkabileceğini yazacak.
